@@ -1,4 +1,4 @@
-# Space-Invaders-Made-by-me-
+# Space-Invaders-Made-by-me- 👽
 • This is a Classic Space Invaders Game made with Pygame Module
 
 • How to run this game:
