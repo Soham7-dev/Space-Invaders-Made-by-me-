@@ -12,4 +12,6 @@
 7. Run the python code
 8. Enjoy ;)
 
-https://github.com/Soham7-dev/Space-Invaders-Made-by-me-/blob/master/ezgif.com-video-to-gif.gif?raw=true
+# Demo
+
+<img src="/Soham7-dev/Space-Invaders-Made-by-me-/blob/master/ezgif.com-video-to-gif.gif?raw=true" alt="ezgif.com-video-to-gif.gif">
