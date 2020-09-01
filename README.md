@@ -11,21 +11,3 @@
 6. Open the python file
 7. Run the python code
 8. Enjoy ;)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Demo
-
-<img src="//im7.ezgif.com/tmp/ezgif-7-f4b3f381d8b5.gif">
