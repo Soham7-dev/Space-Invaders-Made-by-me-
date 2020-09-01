@@ -14,4 +14,4 @@
 
 # Demo
 
-<img src="/Soham7-dev/Space-Invaders-Made-by-me-/blob/master/ezgif.com-video-to-gif.gif?raw=true" alt="ezgif.com-video-to-gif.gif">
+![space-invaders](https://github.com/Soham7-dev/Space-Invaders-Made-by-me-/blob/master/ezgif.com-video-to-gif.gif)
