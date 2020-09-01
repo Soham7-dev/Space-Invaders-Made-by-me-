@@ -1,7 +1,7 @@
 # Space-Invaders-Made-by-me- 👽
 • This is a Classic Space Invaders Game made with Pygame Module
 
-<img src="//im7.ezgif.com/tmp/ezgif-7-f4b3f381d8b5.gif" style="width:600px;height:450px" alt="[video-to-gif output image]">
+/html/body/div/div[4]/div[2]/div[3]/p[1]/img
 
 • How to run this game:
 
