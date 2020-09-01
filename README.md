@@ -28,4 +28,4 @@
 
 # Demo
 
-<img src="//im7.ezgif.com/tmp/ezgif-7-f4b3f381d8b5.gif" style="width:600px;height:450px" alt="[video-to-gif output image]">
+<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:75%;position:relative;"><iframe width="360" height="270" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4dgv4f"></iframe></div><p><a href="https://imgflip.com/gif/4dgv4f">via Imgflip</a></p></div>
