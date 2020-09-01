@@ -28,4 +28,4 @@
 
 # Demo
 
-<img src="//im7.ezgif.com/tmp/ezgif-7-f4b3f381d8b5.gif" style="width:600px;height:450px" alt="[video-to-gif output image]">
+<img src="//im7.ezgif.com/tmp/ezgif-7-f4b3f381d8b5.gif">
