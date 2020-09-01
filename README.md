@@ -11,3 +11,7 @@
 6. Open the python file
 7. Run the python code
 8. Enjoy ;)
+
+# Demo
+
+<img src="/Soham7-dev/Space-Invaders-Made-by-me-/blob/master/ezgif.com-video-to-gif.gif?raw=true" alt="ezgif.com-video-to-gif.gif">
